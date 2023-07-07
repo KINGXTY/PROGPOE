@@ -3,17 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package progproject;
-
-/**
- *
- * @author tyres
- */
-
-
-import java.util.Scanner;
-import java.util.regex.*;
 import javax.swing.JOptionPane;
-import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
